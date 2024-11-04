@@ -37,19 +37,19 @@ To run the project, the following packages are needed:
 
 ## Project Steps
 ### 1. Data Cleaning:
-* Handling missing values (e.g., in Age, Cabin, and Embarked columns).
+* Handling missing values.
 * Converting categorical variables to numerical format.
 * Outlier detection and treatment, if necessary.
 ### 2. Exploratory Data Analysis (EDA):
 
 * Univariate Analysis: Analyzing individual variables to understand their distribution and patterns.
-* Bivariate Analysis: Exploring relationships between variables, such as Age vs. Survived or Pclass vs. Fare.
+* Bivariate Analysis: Exploring relationships between variables.
 * Multivariate Analysis: Studying the interaction of multiple variables to see more complex relationships and survival trends.
 ### 3. Visualization:
 
 * Graphical representations to identify patterns and trends, using plots such as histograms, bar plots, and scatter plots.
 
-### Usage
+## Usage
 1. Download the dataset and place it in the same directory as the notebook or update the path in the notebook code.
 2. Run the notebook to perform data cleaning and EDA.
 3. Modify and extend the analysis as needed based on your specific objectives.
