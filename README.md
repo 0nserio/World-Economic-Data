@@ -4,6 +4,23 @@
 This is an overview of World economic data that comprises of Corruption, Cost of living, richest Countries, Unemployment and Tourism datasets. A look through key insights within the datasets to find relationships and trends.
 
 ## Dataset
+About Dataset
+1) corruption.csv:
+* annual_income
+* corruption_index
+2) cost of living.csv:
+* cost_index
+* monthly_income
+* purchasing_power
+3) richest_countries.csv:
+* gdp_per_capita
+4) tourism.csv:
+* tourism_in_millions
+* receipts_in_billions
+* receipts_per_tourist
+* percentage_of_gdp
+5) unemployment.csv:
+* unemployment_rate
 
 ### Dataset Source
 The dataset can be accessed from Kaggle: 
@@ -30,11 +47,6 @@ To run the project, the following packages are needed:
 ### 3. Visualization:
 
 * Graphical representations to identify patterns and trends, using plots such as histograms, bar plots, and scatter plots.
-
-##Key Findings
-*
-* 
-* 
 
 ### Usage
 1. Download the dataset and place it in the same directory as the notebook or update the path in the notebook code.
